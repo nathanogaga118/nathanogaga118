@@ -70,5 +70,7 @@ Web3  ·  Smart Contract Auditing · Foundry · Hardhat · Slither · DeFi Sec
 
 Tools  ·  Burp Suite · ADB · HackerOne · Bugcrowd
 
-Certifications  
+Certifications
+
+NIIT
 
